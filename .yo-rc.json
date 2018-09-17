@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.pindi.siap",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "siap",
+    "packageName": "com.pindi.siap",
+    "packageFolder": "com/pindi/siap",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjNlNzNlODc3YThiZTY2YzI4NDY0OWVlM2NkOTIyNDA5MWY2YWQ0MjY3YTY2NzhmZjlkMDUxZGM0NDQ3NjBhOWIyNGFmMmQwZTVkMGQwNjc2Zjg0YTRkNWE1Y2VkNzBjYmI0YjIxMzMzYWNkNWZlOGYwOGEwNmYxNmJhN2IxNjE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-primeng-charts",
+        "version": "1.1.0"
+      },
+      {
+        "name": "generator-jhipster-primeng",
+        "version": "2.0.64"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ]
+  }
+}
